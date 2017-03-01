@@ -1,0 +1,10 @@
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\bin\Debug\WebDriverScrapingConsole.exe.config
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\bin\Debug\WebDriverScrapingConsole.exe
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\bin\Debug\WebDriverScrapingConsole.pdb
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\bin\Debug\WebDriver.dll
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\bin\Debug\WebDriver.Support.dll
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\bin\Debug\WebDriver.xml
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\bin\Debug\WebDriver.Support.xml
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\obj\Debug\WebDriverScrapingConsole.csprojResolveAssemblyReference.cache
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\obj\Debug\WebDriverScrapingConsole.exe
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\WebDriverScrapingConsole\obj\Debug\WebDriverScrapingConsole.pdb

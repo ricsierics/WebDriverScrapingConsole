@@ -1,0 +1,10 @@
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\bin\Debug\SimpleLottoResultScraper.exe.config
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\bin\Debug\SimpleLottoResultScraper.exe
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\bin\Debug\SimpleLottoResultScraper.pdb
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\bin\Debug\WebDriver.dll
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\bin\Debug\WebDriver.Support.dll
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\bin\Debug\WebDriver.xml
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\bin\Debug\WebDriver.Support.xml
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\obj\Debug\SimpleLottoResultScraper.exe
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\obj\Debug\SimpleLottoResultScraper.pdb
+C:\Users\Rics\Source\Repos\Selenium\WebDriverScrapingConsole\SimpleLottoResultScraper\obj\Debug\SimpleLottoResultScraper.csprojResolveAssemblyReference.cache
